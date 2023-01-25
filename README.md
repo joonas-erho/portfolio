@@ -1,5 +1,5 @@
 # Professional Portfolio
-A portfolio of my coding projects that are not otherwise found on my GitHub account.
+A portfolio of my professional coding projects that are not otherwise found on my GitHub account.
 
 _WIP - Screenshots Coming!_
 
